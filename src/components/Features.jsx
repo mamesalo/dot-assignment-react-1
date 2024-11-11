@@ -1,5 +1,9 @@
 const Features = () => {
-  return <div>Features</div>;
+  return (
+    <div className="flex-1 flex items-center justify-center text-4xl font-semibold">
+      Features
+    </div>
+  );
 };
 
 export default Features;
